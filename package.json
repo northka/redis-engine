@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/northka/redis-engine#readme",
   "dependencies": {
-    "redis": "^2.6.3"
+    "ioredis": "^2.5.0"
   }
 }
