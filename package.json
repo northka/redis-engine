@@ -1,5 +1,5 @@
 {
-  "name": "redis-engine",
+  "name": "ioredis-engine",
   "version": "0.0.2",
   "description": "the plugin of rpc-proxy",
   "main": "index.js",
