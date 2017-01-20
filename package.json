@@ -1,6 +1,6 @@
 {
   "name": "ioredis-engine",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "the plugin of rpc-proxy",
   "main": "index.js",
   "scripts": {
